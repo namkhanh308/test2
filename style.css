@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#header {
+  height: 100px;
+  background-color: #24363a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+.icon {
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+.bold {
+  color: black;
+  margin-bottom: 4px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  border-bottom: 2px solid black;
+}
+.chu {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: darkblue;
+}
+
+img {
+  width: 100%;
+  height: 229px;
+}
+#muaxuan {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+#muahe {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#body1 {
+  width: 350px;
+  text-decoration: none;
+}
+#body2 {
+  width: 350px;
+  text-decoration: none;
+}
+#body3 {
+  width: 350px;
+  text-decoration: none;
+}
+#body4 {
+  width: 350px;
+  text-decoration: none;
+}
+#body5 {
+  width: 350px;
+  text-decoration: none;
+}
+#body6 {
+  width: 350px;
+  text-decoration: none;
+}
+#chuthich1 {
+  display: none;
+}
+#chuthich2 {
+  display: none;
+}
+#chuthich3 {
+  display: none;
+}
+#chuthich4 {
+  display: none;
+}
+#chuthich5 {
+  display: none;
+}
+#chuthich6 {
+  display: none;
+}
